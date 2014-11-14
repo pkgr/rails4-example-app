@@ -2,3 +2,4 @@ installer: true
 wizards:
   - mysql
   - apache2
+  - rails4
